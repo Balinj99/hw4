@@ -1,20 +1,14 @@
 def main():
     print("Unit test 1:")
     length = -5
-    if(length < 0):
-        length = -length
     print("The volume of a cube of length", length, "is ", length ** 3)
 
     print("Unit test 1:")
     length = -5.0
-    if(length < 0):
-        length = -length
     print("The volume of a cube of length", length, "is ", length ** 3)
 
     print("Unit test 1:")
     length = 5.0
-    if(length < 0):
-        length = -length
     print("The volume of a cube of length", length, "is ", length ** 3)
 
 
