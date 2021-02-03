@@ -82,6 +82,8 @@ def main():
 
         else:
 
+            arr = [0] * num
+            
             for n in range(0,num):
 
                 running2 = True
@@ -94,7 +96,7 @@ def main():
                     except:
                         print("\nIncorrect input. Please try again.")
                         continue
-                    
+
                     else:
                         running2 = False
 
