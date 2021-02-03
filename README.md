@@ -18,10 +18,6 @@ List average program:
 	A list with floats.
 	And a list with some ints and some floats.
 
-	There is a bug that I am not sure why it happens where it only takes the first 5 list element inputs, but if you try to enter more for a larger list it does not accept the input.
-	For instance, you can enter 5 as list size and then 1, 2, 3, 4, 5 for the elements and the program will work as intended.
-	But if you try 6 as the list size, it will accept 1, 2, 3, 4, 5, but then when you enter 6, it will report an incorrect input.
-
 Full name program:
 	To run this program enter a first name, then a last name when prompted.
 	Then enter y or n to repeat the process or to quit.
